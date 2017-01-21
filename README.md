@@ -14,7 +14,7 @@
 * Student 9
 * Student 10
 * Student 11
-* Roy Tang: http://Roytangrb.github.io/
+* Student 12
 * Student 13
 * Student 14
 * Student 15
@@ -27,7 +27,7 @@
 * ian mak: https://ianmaksh.github.io/
 * Student 23
 * Student 24
-* Student 25
+* Alison Li: http://alisonlipy.github.io/
 * Student 26
 * Daniel Ma: http://danielma518.github.io/
 * Student 28
